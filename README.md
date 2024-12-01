@@ -6,7 +6,7 @@
 
 **Incorporation**: 2011  
 
-**Founders**: Vijay Balasubramaniyan, Paul Judge, and Matt Anthony  
+**Founders**: Vijay Balasubramaniyan, Paul Judge, and Mustaque Ahamad  
 
 **Origin Story**:  
 Pindrop was founded to address the challenge of preventing fraud in call centers, which costs businesses billions annually. Vijay Balasubramaniyan’s Ph.D. research in acoustic signals at Georgia Tech inspired the company's core technology of voice fingerprinting and audio signal analysis [^1].
